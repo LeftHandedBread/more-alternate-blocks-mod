@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "moreblocks",
+  "version": "${version}",
+
+  "name": "More Alternate Blocks",
+  "description": "Adds things like stairs, slabs, and walls for various blocks.",
+  "authors": [
+    "LeftHandedBread"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/moreblocks/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.lefthandedbread.moreAlternateBlocks.MoreAlternateBlocks"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

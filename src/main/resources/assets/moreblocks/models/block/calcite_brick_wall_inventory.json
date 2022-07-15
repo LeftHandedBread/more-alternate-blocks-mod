@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "moreblocks:blocks/calcite_bricks"
+  }
+}

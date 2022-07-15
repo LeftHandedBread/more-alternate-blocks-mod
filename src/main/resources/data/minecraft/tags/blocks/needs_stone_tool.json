@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "moreblocks:calcite_bricks",
+    "moreblocks:calcite_stairs",
+    "moreblocks:calcite_slab",
+    "moreblocks:calcite_wall",
+    "moreblocks:calcite_brick_stairs",
+    "moreblocks:calcite_brick_slab",
+    "moreblocks:calcite_brick_wall"
+  ]
+}
