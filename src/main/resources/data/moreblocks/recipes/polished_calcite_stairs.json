@@ -6,11 +6,12 @@
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "#  ",
+    "## ",
+    "###"
   ],
   "result": {
-    "count": 4,
-    "item": "moreblocks:calcite_bricks"
+    "count": 8,
+    "item": "moreblocks:polished_calcite_stairs"
   }
 }

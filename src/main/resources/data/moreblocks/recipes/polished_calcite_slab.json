@@ -6,11 +6,10 @@
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "###"
   ],
   "result": {
-    "count": 4,
-    "item": "moreblocks:calcite_bricks"
+    "count": 6,
+    "item": "moreblocks:polished_calcite_slab"
   }
 }

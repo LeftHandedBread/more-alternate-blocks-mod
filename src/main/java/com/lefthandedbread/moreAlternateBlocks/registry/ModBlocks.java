@@ -26,8 +26,14 @@ public class ModBlocks {
             new SlabBlock(FabricBlockSettings.of(STONE).strength(0.75f, 0.75f).requiresTool()), ItemGroup.BUILDING_BLOCKS);
     public static final Block CALCITE_BRICK_WALL = registerBlock("calcite_brick_wall",
             new WallBlock(FabricBlockSettings.of(STONE).strength(0.75f, 0.75f).requiresTool()), ItemGroup.BUILDING_BLOCKS);
-
-
+    public static final Block POLISHED_CALCITE = registerBlock("polished_calcite",
+            new Block(FabricBlockSettings.of(STONE).strength(0.75f, 0.75f).requiresTool()), ItemGroup.BUILDING_BLOCKS);
+    public static final Block POLISHED_CALCITE_STAIRS = registerBlock("polished_calcite_stairs",
+            new StairsBlock(Blocks.CALCITE.getDefaultState(), FabricBlockSettings.of(STONE).strength(0.75f, 0.75f).requiresTool()), ItemGroup.BUILDING_BLOCKS);
+    public static final Block POLISHED_CALCITE_SLAB = registerBlock("polished_calcite_slab",
+            new SlabBlock(FabricBlockSettings.of(STONE).strength(0.75f, 0.75f).requiresTool()), ItemGroup.BUILDING_BLOCKS);
+    public static final Block POLISHED_CALCITE_WALL = registerBlock("polished_calcite_wall",
+            new WallBlock(FabricBlockSettings.of(STONE).strength(0.75f, 0.75f).requiresTool()), ItemGroup.BUILDING_BLOCKS);
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
         registerBlockItem(name, block);

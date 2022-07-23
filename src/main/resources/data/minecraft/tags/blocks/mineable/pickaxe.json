@@ -335,6 +335,10 @@
     "moreblocks:calcite_wall",
     "moreblocks:calcite_brick_stairs",
     "moreblocks:calcite_brick_slab",
-    "moreblocks:calcite_brick_wall"
+    "moreblocks:calcite_brick_wall",
+    "moreblocks:polished_calcite",
+    "moreblocks:polished_calcite_stairs",
+    "moreblocks:polished_calcite_slab",
+    "moreblocks:polished_calcite_wall"
   ]
 }

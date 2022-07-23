@@ -5,5 +5,9 @@
   "block.moreblocks.calcite_wall": "Calcite Wall",
   "block.moreblocks.calcite_brick_stairs": "Calcite Brick Stairs",
   "block.moreblocks.calcite_brick_slab": "Calcite Brick Slab",
-  "block.moreblocks.calcite_brick_wall": "Calcite Brick Wall"
+  "block.moreblocks.calcite_brick_wall": "Calcite Brick Wall",
+  "block.moreblocks.polished_calcite": "Polished Calcite",
+  "block.moreblocks.polished_calcite_stairs": "Polished Calcite Stairs",
+  "block.moreblocks.polished_calcite_slab": "Polished Calcite Slab",
+  "block.moreblocks.polished_calcite_wall": "Polished Calcite Wall"
 }
